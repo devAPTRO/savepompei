@@ -4214,8 +4214,7 @@ self.C3_ExpressionFuncs = [
 		() => 6999999,
 		() => 999,
 		() => 2,
-		() => 0.5,
-		() => "hArD mOdE aCtIvAtEd"
+		() => 0.5
 ];
 
 
